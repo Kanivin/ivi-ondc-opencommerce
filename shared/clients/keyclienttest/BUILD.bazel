@@ -17,7 +17,7 @@ load("@io_bazel_rules_go//go:def.bzl", "go_library")
 go_library(
     name = "keyclienttest",
     srcs = ["keyclienttest.go"],
-    importpath = "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/clients/keyclienttest",
+    importpath = "github.com/Kanivin/ivi-ondc-opencommerce/shared/clients/keyclienttest",
     visibility = ["//visibility:public"],
     deps = [
         "//shared/crypto",

@@ -16,7 +16,7 @@
 //
 // All error codes are define in [ONDC Error Codes]
 //
-// [ONDC Error Codes]: https://github.com/ONDC-Official/ONDC-Protocol-Specs/blob/master/protocol-specifications/docs/draft/Error%20Codes.md
+// [ONDC Error Codes]: github.com/ONDC-Official/ONDC-Protocol-Specs/blob/master/protocol-specifications/docs/draft/Error%20Codes.md
 package errorcode
 
 // ErrType is an ONDC error.

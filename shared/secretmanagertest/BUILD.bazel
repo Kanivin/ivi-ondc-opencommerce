@@ -17,7 +17,7 @@ load("@io_bazel_rules_go//go:def.bzl", "go_library")
 go_library(
     name = "secretmanagertest",
     srcs = ["secretmanagertest.go"],
-    importpath = "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/secretmanagertest",
+    importpath = "github.com/Kanivin/ivi-ondc-opencommerce/shared/secretmanagertest",
     visibility = ["//visibility:public"],
     deps = [
         "@com_github_bazelbuild_remote_apis_sdks//go/pkg/portpicker",

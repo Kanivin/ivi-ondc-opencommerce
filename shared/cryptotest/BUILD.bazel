@@ -17,6 +17,6 @@ load("@io_bazel_rules_go//go:def.bzl", "go_library")
 go_library(
     name = "cryptotest",
     srcs = ["cryptotest.go"],
-    importpath = "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/cryptotest",
+    importpath = "github.com/Kanivin/ivi-ondc-opencommerce/shared/cryptotest",
     visibility = ["//visibility:public"],
 )

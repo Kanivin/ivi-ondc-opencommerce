@@ -25,9 +25,9 @@ import (
 
 	"github.com/benbjohnson/clock"
 	log "github.com/golang/glog"
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/errorcode"
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/models/model"
-	auth "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/signing-authentication/authentication"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/errorcode"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/models/model"
+	auth "github.com/Kanivin/ivi-ondc-opencommerce/shared/signing-authentication/authentication"
 )
 
 // Adapter wraps an handler and return a new handler

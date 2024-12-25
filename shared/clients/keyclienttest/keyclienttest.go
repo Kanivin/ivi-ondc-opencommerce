@@ -19,8 +19,8 @@ import (
 	"context"
 	"testing"
 
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/crypto"
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/signing-authentication/authentication"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/crypto"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/signing-authentication/authentication"
 )
 
 // Stub stubs keyclient.SecretManagerKeyClient.

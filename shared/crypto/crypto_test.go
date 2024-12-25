@@ -17,7 +17,7 @@ package crypto
 import (
 	"testing"
 
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/cryptotest"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/cryptotest"
 )
 
 func TestEncryptDecryptFromExample(t *testing.T) {

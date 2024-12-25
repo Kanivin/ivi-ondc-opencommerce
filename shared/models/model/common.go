@@ -1278,7 +1278,7 @@ type Tag struct {
 
 // TagGroup - A collection of tag objects with group level attributes.
 //
-// For detailed documentation on the Tags and Tag Groups schema go to https://github.com/beckn/protocol-specifications/discussions/316
+// For detailed documentation on the Tags and Tag Groups schema go to github.com/beckn/protocol-specifications/discussions/316
 type TagGroup struct {
 	// Indicates the display properties of the tag group.
 	//

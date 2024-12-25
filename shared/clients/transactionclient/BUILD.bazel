@@ -17,7 +17,7 @@ load("@io_bazel_rules_go//go:def.bzl", "go_library")
 go_library(
     name = "transactionclient",
     srcs = ["transactionclient.go"],
-    importpath = "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/clients/transactionclient",
+    importpath = "github.com/Kanivin/ivi-ondc-opencommerce/shared/clients/transactionclient",
     visibility = ["//visibility:public"],
     deps = [
         "@com_github_google_uuid//:uuid",

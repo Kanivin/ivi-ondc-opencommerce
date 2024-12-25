@@ -22,7 +22,7 @@ go_library(
         "common.go",
         "validate.go",
     ],
-    importpath = "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/models/model",
+    importpath = "github.com/Kanivin/ivi-ondc-opencommerce/shared/models/model",
     visibility = ["//visibility:public"],
     deps = ["@com_github_go_playground_validator_v10//:validator"],
 )

@@ -17,7 +17,7 @@ load("@io_bazel_rules_go//go:def.bzl", "go_library", "go_test")
 go_library(
     name = "middleware",
     srcs = ["middleware.go"],
-    importpath = "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/middleware",
+    importpath = "github.com/Kanivin/ivi-ondc-opencommerce/shared/middleware",
     visibility = ["//visibility:public"],
     deps = [
         "//shared/errorcode",

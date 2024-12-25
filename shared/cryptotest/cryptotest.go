@@ -24,7 +24,7 @@ import (
 )
 
 // These example values are specified in this ONDC implementation reference.
-// https://github.com/ONDC-Official/reference-implementations/tree/main/utilities/signing_and_verification
+// github.com/ONDC-Official/reference-implementations/tree/main/utilities/signing_and_verification
 const (
 	examplePrivateKeyDERB64 = "MC4CAQAwBQYDK2VuBCIEIOgl3rf3arbk1PvIe0C9TZp7ImR71NSQdvuSu+zzY6xo"
 	ExamplePublicKeyDERB64  = "MCowBQYDK2VuAyEAi801MjVpgFOXHjliyT6Nb14HkS5dj1p41qbeyU6/SC8="

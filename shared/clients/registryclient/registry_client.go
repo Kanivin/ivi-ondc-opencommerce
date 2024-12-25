@@ -28,8 +28,8 @@ import (
 
 	log "github.com/golang/glog"
 
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/models/model"
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/models/registry"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/models/model"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/models/registry"
 )
 
 // RegistryClient communicates with the ONDC registry.

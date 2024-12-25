@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"time"
 
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/models/model"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/models/model"
 )
 
 // Stub stubs registryclient.RegistryClient

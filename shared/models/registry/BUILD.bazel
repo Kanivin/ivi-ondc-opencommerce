@@ -17,6 +17,6 @@ load("@io_bazel_rules_go//go:def.bzl", "go_library")
 go_library(
     name = "registry",
     srcs = ["registry.go"],
-    importpath = "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/models/registry",
+    importpath = "github.com/Kanivin/ivi-ondc-opencommerce/shared/models/registry",
     visibility = ["//visibility:public"],
 )

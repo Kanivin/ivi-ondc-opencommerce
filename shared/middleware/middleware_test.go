@@ -25,8 +25,8 @@ import (
 	"time"
 
 	"github.com/benbjohnson/clock"
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/clients/registryclienttest"
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/errorcode"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/clients/registryclienttest"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/errorcode"
 )
 
 // Valid test case data for authentication middlewares

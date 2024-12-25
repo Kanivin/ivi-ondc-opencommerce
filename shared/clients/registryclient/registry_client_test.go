@@ -24,8 +24,8 @@ import (
 	"testing"
 	"time"
 
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/models/model"
-	"partner-innovation.googlesource.com/googleondcaccelerator.git/shared/models/registry"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/models/model"
+	"github.com/Kanivin/ivi-ondc-opencommerce/shared/models/registry"
 )
 
 const publicSigningKey = "uJPNW/7CA0iSwMrNbkBAMkVAOoclIIN9lrSeZ2zUkP4="

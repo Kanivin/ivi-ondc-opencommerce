@@ -17,7 +17,7 @@ load("@io_bazel_rules_go//go:def.bzl", "go_library")
 go_library(
     name = "transactiontest",
     srcs = ["transactiontest.go"],
-    importpath = "partner-innovation.googlesource.com/googleondcaccelerator.git/shared/transactiontest",
+    importpath = "github.com/Kanivin/ivi-ondc-opencommerce/shared/transactiontest",
     visibility = ["//visibility:public"],
     deps = [
         "@com_google_cloud_go_spanner//admin/database/apiv1",
